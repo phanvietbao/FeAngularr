@@ -1,0 +1,68 @@
+ [
+  {
+    "id": "1",
+    "name": " Patek Philippe",
+    "image": "https://a.ipricegroup.com/media/Bich/dong-ho-noi-tieng-the-gioi-patek-philippe.jpg",
+    "description":"Patek Philippe là một trong số ít những thương hiệu cao cấp được giới mộ điệu “thèm khát” với số lượng khan hiếm dưới 100 chiếc đồng hồ được ra mắt mỗi năm. Người chơi có thể bỏ ra đến hàng triệu đô để có thể sở hữu được chiếc đồng hồ Patek Philippe danh giá, được ưa chuộng bởi thành phần quý tộc Hoàng Gia như Queen Victoris hay hột số ngôi sao thế giới như Ellen DeGeneres, Robert Downey Jnr, John Mayer, Nicolas Sarkozy.",
+    "type": "watch",
+    "color": "grey",
+    "price": 35.000,
+    "discount": 10,
+    "quantity": 0
+  },
+  {
+    "id": "2",
+    "name": "Tag Heuer",
+    "image": "https://a.ipricegroup.com/media/Bich/dong-ho-noi-tieng-the-gioi-tag-heuer.jpg",
+    "description":"Một trong những chiếc đồng hồ Thụy Sỹ danh giá, Tag Heuer nổi tiếng với công nghệ chế tác đồng hồ thể thao cực đỉnh. Thương hiệu nhanh chóng đẩy tên tuổi của mình khi kết hợp với các giải thể thao uy tín, đua xe và nhà sản xuất đua xe. Không chỉ dừng lại với đồng hồ đeo tay cổ điển, đồng hồ thông minh (smartwatch) Tag Heuer cũng dần chiếm được thị phần của riêng mình. Nam giới yêu thích đồng hồ nam với thiết kế khỏe khoắn không thể bỏ qua dòng Formula One, Aquaracer hay Grand Carrera từ Tag Heuer.",
+    "type": "watch",
+    "color": "White",
+    "price": 30.000,
+    "discount": 5,
+    "quantity": 0
+  },
+  {
+    "id": "3",
+    "name": "Rolex Swiss Made",
+    "image": "https://a.ipricegroup.com/media/Bich/dong-ho-noi-tieng-the-gioi-rolex.jpg",
+    "description":"Một trong những thương hiệu đồng hồ cao cấp hay có thể nói là duy nhất trên thế giới được biến đến rộng rãi về mặt hình ảnh cũng như được yêu chuộng đó chính là Rolex. Đồng hồ Rolex được đánh giá cao về thiết kế cũng như chất lượng vượt thời gian. Đầu tư mua đồng hồ Rolex chính hãng được xem như một phi vụ đầu tư không sợ lỗ nếu bạn muốn bán và thay đổi mẫu mới. Sức sản xuất siêu mạnh với hơn 2000 chiếc đồng hồ mỗi ngày đã giúp Rolex trở thành thương hiệu đồng hồ cao cấp lớn nhất thế giới.",
+    "type": "watch",
+    "color": "yellow",
+    "price": 999.999,
+    "discount": 15,
+    "quantity": 0
+  },
+  {
+    "id": "4",
+    "name": "Omega",
+    "image": "https://a.ipricegroup.com/media/Bich/dong-ho-noi-tieng-the-gioi-omega.jpg",
+    "description":"Luôn nằm trong bảng xếp hạng đồng hồ Thụy Sỹ nổi tiếng, Omega là cái tên không thể bỏ quên. Trải qua nhiều thăng trầm trong ngành công nghiệp chế tác đồng hồ, Omega ghi dấu danh tiếng của mình với chiếc đồng hồ du hành vũ trụ siêu cool. Những cỗ máy thời gian Omega cổ điển mạ vàng được giới sành điệu Việt Nam yêu chuộng hơn cả.",
+    "type": "watch",
+    "color": "silver",
+    "price": 97.999,
+    "discount": 15,
+    "quantity": 0
+  },
+  {
+    "id": "5",
+    "name": "Longines",
+    "image": "https://a.ipricegroup.com/media/Bich/dong-ho-noi-tieng-the-gioi-longines.jpg",
+    "description":"Tự hào với khả năng cho ra đời những sáng chế mang tính ứng dụng cao, bộ máy đo thời gian chính xác đếLongines là gương mặt thân quen trong những chương trình thể thao và mạo hiểm. Luôn nằm trong top đồng hồ Thụy Sỹ danh tiếng và lâu đời, thiết kế Longines mang đến sự sang trọng đẳng cấp đồng thời đậm nét tinh hoa Thụy Sỹ lâu năm. Sở hữu đồng hồ Longines Thụy Sỹ là sự đầu tư hợp lý với mức giá không hề đắt đỏ.",
+    "type": "watch",
+    "color": "White",
+    "price": 12.999,
+    "discount": 12,
+    "quantity": 0
+  },
+  {
+    "id": "6",
+    "name": "Tissot",
+    "image": "https://a.ipricegroup.com/media/Bich/dong-ho-noi-tieng-the-gioi-tissot.jpg",
+    "description":"Dân chơi có thú vui sưu tập đồng hồ không thể không biết đến Tissot với 164 năm tuổi đến từ Thụy Sỹ. Bề dày lịch sử đi cùng chất lượng tuyệt hảo, những cải tiến công nghệ và thiết kế đẳng cấp, Tissot nghiễm nhiên giữ vững vị trí trong lòng người mộ điệu. 2 bộ sưu tập được yêu thích từ Tissot là T-Classic mang dáng dấp cổ điển thanh lịch và T-Sport mang đến sự mạnh mẽ, thể thao.",
+    "type": "watch",
+    "color": "black",
+    "price": 59.000,
+    "discount": 10,
+    "quantity": 0
+  }
+]
